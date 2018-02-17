@@ -1,0 +1,12 @@
+/* CSS Document */
+
+#feedback { font-size: 1.4em; }
+#UIpai .ui-selecting { background: #FECA40; }
+#UIpai .ui-selected { background: #F39814; color: white; }
+#UIpai { list-style-type: none; margin: 0; padding: 0; width: 60%; }
+#UIpai li { margin: 3px; padding: 0.4em; font-size: 1.4em; height: 18px; }
+
+#UIpai2  { list-style-type: none; margin: 0; padding: 0; width: 400px; }
+#UIpai2 li { float: left; width: 100px; height: 90px; font-size: 9px; text-align: center; }
+#UIpai2 li span { position: absolute; margin-left: -1.3em; }
+.ui-menu { width: 150px; }
